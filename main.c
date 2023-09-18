@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv)
 {
-    char first[55], last[255];
+    char first[255], last[255];
 
     
 
@@ -12,7 +12,6 @@ int main(int argc, char **argv)
 
     printf("Hello %s %s!\n", first, last);
 
-=======
     return 1;
 
 }
